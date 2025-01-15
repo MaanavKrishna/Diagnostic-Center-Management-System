@@ -48,19 +48,13 @@ Welcome to the Diagnostic Center Management System! This Python-powered applicat
 
 Doctor Directory 📑
 
-+------------+-------+--------+------------+---------------+--------+-----------+---------+----------------+--------------------+
-| Name       | Title | Gender | DOB        | Qualification | MLNO   | Center_ID | Address | Contact_Number | Email_ID          |
-+------------+-------+--------+------------+---------------+--------+-----------+---------+----------------+--------------------+
-| Dr. Smith  | MD    | Male   | 1980-05-12 | Cardiology    | 123456 | 1         | ...     | 9876543210     | smith@domain.com  |
-+------------+-------+--------+------------+---------------+--------+-----------+---------+----------------+--------------------+
+Name	Title	Gender	DOB	Qualification	MLNO	Center_ID	Address	Contact_Number	Email_ID
+Dr. Smith	MD	Male	1980-05-12	Cardiology	123456	1	…	9876543210	smith@domain.com
 
 Patient Directory 🩺
 
-+---------------------+-------------------+------+-------+------------+---------+----------------+----------------+------------+--------------+-------------+
-| Registration_Number | Registration_Date | Name | Gender | DOB        | Address | Contact_Number | Referred_By    | Test_Date  | Test_Type   | Doctor_Name | Fee         |
-+---------------------+-------------------+------+-------+------------+---------+----------------+----------------+------------+--------------+-------------+
-| 101                 | 2023-12-01       | John | Male   | 1990-04-15 | ...     | 9876543210     | Dr. Smith      | 2023-12-05 | MRI Scan    | Dr. Smith   | 5000        |
-+---------------------+-------------------+------+-------+------------+---------+----------------+----------------+------------+--------------+-------------+
+Registration Number	Registration Date	Name	Gender	DOB	Address	Contact Number	Referred By	Test Date	Test Type	Doctor Name	Fee
+101	2023-12-01	John	Male	1990-04-15	…	9876543210	Dr. Smith	2023-12-05	MRI Scan	Dr. Smith	5000
 
 🧑‍💻 Contributing
 
