@@ -46,15 +46,21 @@ Welcome to the Diagnostic Center Management System! This Python-powered applicat
 
 🌟 Example Reports
 
-Doctor Directory 📑
+# 📋 **Medical Center System**  
 
-Name	Title	Gender	DOB	Qualification	MLNO	Center_ID	Address	Contact_Number	Email_ID
-Dr. Smith	MD	Male	1980-05-12	Cardiology	123456	1	…	9876543210	smith@domain.com
+## Doctor Directory 📑
 
-Patient Directory 🩺
+| Name       | Title | Gender | DOB        | Qualification | MLNO   | Center_ID | Address      | Contact Number | Email ID           |
+|------------|-------|--------|------------|---------------|--------|-----------|--------------|----------------|--------------------|
+| Dr. Smith  | MD    | Male   | 1980-05-12 | Cardiology    | 123456 | 1         | 1234 Elm St  | 9876543210     | smith@domain.com   |
+| Dr. Brown  | PhD   | Female | 1975-09-22 | Neurology     | 654321 | 2         | 456 Oak Ave  | 9876549876     | brown@domain.com   |
 
-Registration Number	Registration Date	Name	Gender	DOB	Address	Contact Number	Referred By	Test Date	Test Type	Doctor Name	Fee
-101	2023-12-01	John	Male	1990-04-15	…	9876543210	Dr. Smith	2023-12-05	MRI Scan	Dr. Smith	5000
+## Patient Directory 🩺
+
+| Registration Number | Registration Date | Name   | Gender | DOB        | Address        | Contact Number | Referred By | Test Date  | Test Type   | Doctor Name | Fee  |
+|---------------------|-------------------|--------|--------|------------|----------------|----------------|-------------|------------|-------------|-------------|------|
+| 101                 | 2023-12-01        | John   | Male   | 1990-04-15 | 1234 Elm St    | 9876543210     | Dr. Smith   | 2023-12-05 | MRI Scan    | Dr. Smith   | 5000 |
+| 102                 | 2023-12-02        | Alice  | Female | 1985-07-30 | 5678 Oak Ave   | 9876549876     | Dr. Brown   | 2023-12-06 | X-ray      | Dr. Brown   | 3000 |
 
 🧑‍💻 Contributing
 
