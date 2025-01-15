@@ -46,8 +46,6 @@ Welcome to the Diagnostic Center Management System! This Python-powered applicat
 
 🌟 Example Reports
 
-# 📋 **Medical Center System**  
-
 ## Doctor Directory 📑
 
 | Name       | Title | Gender | DOB        | Qualification | MLNO   | Center_ID | Address      | Contact Number | Email ID           |
