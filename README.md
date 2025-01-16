@@ -1,4 +1,4 @@
-## 🏥 Diagnostic Center Management System
+# 🏥 Diagnostic Center Management System
 Welcome to the Diagnostic Center Management System (DCMS), a Python-powered solution designed to streamline the operations of a diagnostic center. This system offers seamless management of doctors, patients, and essential reports, ensuring efficient record-keeping and improved organizational workflows.
 
 🚀 Features
