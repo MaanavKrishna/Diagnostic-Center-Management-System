@@ -15,40 +15,36 @@ Welcome to the Diagnostic Center Management System (DCMS), a Python-powered solu
 	•	Dedicated admin functionalities.
 	•	Simplified doctor menu with patient operations and reports.
 
-🛠️ Usage
+📦 Installation Guide
 
-1. Clone the Repository
+Step 1: Clone the Repository
 
-       git clone https://github.com/your-repo/diagnostic-center-management-system.git
+    git clone https://github.com/MaanavKrishna/Diagnostic-Center-Management-System
 
 Navigate into the project directory
 
-    cd diagnostic-center-management-system
+    cd Diagnostic-Center-Management-System
 
-2. Set Up MySQL Database
-	•	Ensure MySQL is installed on your system.
-	•	Create a database named Scancentre using the following command:
+Step 2: Install Dependencies
 
-CREATE DATABASE Scancentre;
+Install the required Python libraries:
 
+    pip install mysql-connector-python tabulate
 
+Step 3: Set Up the Database
 
-3. Install Required Libraries
-	•	Install the necessary Python packages:
+	1.	Open your MySQL client and create a new database:
 
-pip install mysql-connector-python tabulate
+CREATE DATABASE GMS;
 
+	2.	Tables (Doctor and Patient) are automatically created when the program is run for the first time.
 
+Step 4: Run the Application
 
-4. Run the Program
-	•	Start the application by executing:
+Run the script to start the system:
 
-python dcms.py
+    python dcms.py
 
-
-
-5. Follow the Menus
-	•	Navigate through the interactive menus to manage doctors, patients, and generate reports.
 
 📋 Example Reports
 
